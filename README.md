@@ -1,21 +1,20 @@
-<table style="border-collapse: collapse;">
+<table style="width: 100%; border: none; border-spacing: 0;">
   <tr>
-    <td style="text-align: justify; padding: 0 10px;">
-
-## 💫 **Sobre Mí**  
-🔭 Actualmente estoy trabajando en un proyecto privado orientado a la gestión de laboratorios de camarón, con un enfoque en desarrollo backend utilizando .NET.  
-👯 Busco colaborar en proyectos innovadores que requieran experiencia sólida en backend con .NET y que ofrezcan desafíos técnicos interesantes.  
-🤝 Estoy abierto a recibir apoyo en temas avanzados de React, buenas prácticas de CSS y estrategias eficientes de despliegue en entornos IIS.  
-🌱 Actualmente me encuentro en proceso de aprendizaje de React, CSS moderno y temas relacionados con la infraestructura y despliegue de aplicaciones .NET.  
-💬 Puedes preguntarme sobre desarrollo backend con .NET, diseño de APIs, microservicios y cómo optimizar entornos de desarrollo para lograr mayor productividad.  
-⚡ Dato curioso: disfruto superar desafíos de programación que simplifican procesos complejos y aumentan la eficiencia en entornos de desarrollo.  
-
-</td>
+    <td style="text-align: justify; padding: 0 10px; vertical-align: top;">
+      💫 **Sobre Mí**  
+      🔭 Actualmente estoy trabajando en un proyecto privado orientado a la gestión de laboratorios de camarón, con un enfoque en desarrollo backend utilizando .NET.  
+      👯 Busco colaborar en proyectos innovadores que requieran experiencia sólida en backend con .NET y que ofrezcan desafíos técnicos interesantes.  
+      🤝 Estoy abierto a recibir apoyo en temas avanzados de React, buenas prácticas de CSS y estrategias eficientes de despliegue en entornos IIS.  
+      🌱 Actualmente me encuentro en proceso de aprendizaje de React, CSS moderno y temas relacionados con la infraestructura y despliegue de aplicaciones .NET.  
+      💬 Puedes preguntarme sobre desarrollo backend con .NET, diseño de APIs, microservicios y cómo optimizar entornos de desarrollo para lograr mayor productividad.  
+      ⚡ Dato curioso: disfruto superar desafíos de programación que simplifican procesos complejos y aumentan la eficiencia en entornos de desarrollo.
+    </td>
     <td style="padding: 10px;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRqZGx3NndiamFtc3dhMTYxMmhzaDFob3p6d21jZ3llcHhmdXhwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200px" />
     </td>
   </tr>
 </table>
+
 
 
 
