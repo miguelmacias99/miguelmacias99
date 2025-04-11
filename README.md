@@ -1,19 +1,22 @@
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 280px;">
-    <h2>💫 Sobre Mí</h2>
-    <p>🔭 Actualmente estoy trabajando en un proyecto privado orientado a la gestión de laboratorios de camarón, con un enfoque en desarrollo backend utilizando .NET.</p>
-    <p>👯 Busco colaborar en proyectos innovadores que requieran experiencia sólida en backend con .NET y que ofrezcan desafíos técnicos interesantes.</p>
-    <p>🤝 Estoy abierto a recibir apoyo en temas avanzados de React, buenas prácticas de CSS y estrategias eficientes de despliegue en entornos IIS.</p>
-    <p>🌱 Actualmente me encuentro en proceso de aprendizaje de React, CSS moderno y temas relacionados con la infraestructura y despliegue de aplicaciones .NET.</p>
-    <p>💬 Puedes preguntarme sobre desarrollo backend con .NET, diseño de APIs, microservicios y cómo optimizar entornos de desarrollo para lograr mayor productividad.</p>
-    <p>⚡ Dato curioso: disfruto superar desafíos de programación que simplifican procesos complejos y aumentan la eficiencia en entornos de desarrollo.</p>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRqZGx3NndiamFtc3dhMTYxMmhzaDFob3p6d21jZ3llcHhmdXhwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Pingüino saludando" style="max-width: 200px; border-radius: 12px;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+💫 **Sobre Mí**  
+🔭 Actualmente estoy trabajando en un proyecto privado orientado a la gestión de laboratorios de camarón, con un enfoque en desarrollo backend utilizando .NET.  
+👯 Busco colaborar en proyectos innovadores que requieran experiencia sólida en backend con .NET y que ofrezcan desafíos técnicos interesantes.  
+🤝 Estoy abierto a recibir apoyo en temas avanzados de React, buenas prácticas de CSS y estrategias eficientes de despliegue en entornos IIS.  
+🌱 Actualmente me encuentro en proceso de aprendizaje de React, CSS moderno y temas relacionados con la infraestructura y despliegue de aplicaciones .NET.  
+💬 Puedes preguntarme sobre desarrollo backend con .NET, diseño de APIs, microservicios y cómo optimizar entornos de desarrollo para lograr mayor productividad.  
+⚡ Dato curioso: disfruto superar desafíos de programación que simplifican procesos complejos y aumentan la eficiencia en entornos de desarrollo.  
+
+</td>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRqZGx3NndiamFtc3dhMTYxMmhzaDFob3p6d21jZ3llcHhmdXhwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200px" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farkas_1205) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/miguel-macias-zambrano-0754b9286/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miguelmacias_99@hotmail.com) 
