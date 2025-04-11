@@ -1,8 +1,8 @@
-<table>
+<table style="border:none">
   <tr>
     <td>
 
-💫 **Sobre Mí**  
+## 💫 **Sobre Mí**  
 🔭 Actualmente estoy trabajando en un proyecto privado orientado a la gestión de laboratorios de camarón, con un enfoque en desarrollo backend utilizando .NET.  
 👯 Busco colaborar en proyectos innovadores que requieran experiencia sólida en backend con .NET y que ofrezcan desafíos técnicos interesantes.  
 🤝 Estoy abierto a recibir apoyo en temas avanzados de React, buenas prácticas de CSS y estrategias eficientes de despliegue en entornos IIS.  
