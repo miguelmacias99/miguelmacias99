@@ -1,18 +1,17 @@
-# 💫 Sobre Mí:
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; text-align: left;">
-    🔭 Actualmente estoy trabajando en un proyecto privado orientado a la gestión de laboratorios de camarón, con un enfoque en desarrollo backend utilizando .NET.  
-    👯 Busco colaborar en proyectos innovadores que requieran experiencia sólida en backend con .NET y que ofrezcan desafíos técnicos interesantes.  
-    🤝 Estoy abierto a recibir apoyo en temas avanzados de React, buenas prácticas de CSS y estrategias eficientes de despliegue en entornos IIS.  
-    🌱 Actualmente me encuentro en proceso de aprendizaje de React, CSS moderno y temas relacionados con la infraestructura y despliegue de aplicaciones .NET.  
-    💬 Puedes preguntarme sobre desarrollo backend con .NET, diseño de APIs, microservicios y cómo optimizar entornos de desarrollo para lograr mayor productividad.  
-    ⚡ Dato curioso: disfruto superar desafíos de programación que simplifican procesos complejos y aumentan la eficiencia en entornos de desarrollo.
+<h2>💫 Sobre Mi:</h2>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    🔭 Actualmente estoy trabajando en un proyecto privado orientado a la gestión de laboratorios de camarón, con un enfoque en desarrollo backend utilizando .NET.<br>
+    👯 Busco colaborar en proyectos innovadores que requieran experiencia sólida en backend con .NET y que ofrezcan desafíos técnicos interesantes.<br>
+    🤝 Estoy abierto a recibir apoyo en temas avanzados de React, buenas prácticas de CSS y estrategias eficientes de despliegue en entornos IIS.<br>
+    🌱 Actualmente me encuentro en proceso de aprendizaje de React, CSS moderno y temas relacionados con la infraestructura y despliegue de aplicaciones .NET.<br>
+    💬 Puedes preguntarme sobre desarrollo backend con .NET, diseño de APIs, microservicios y cómo optimizar entornos de desarrollo para lograr mayor productividad.<br>
+    ⚡ Dato curioso: disfruto superar desafíos de programación que simplifican procesos complejos y aumentan la eficiencia en entornos de desarrollo.<br>
   </div>
-  <div style="flex: 0; text-align: right;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRqZGx3NndiamFtc3dhMTYxMmhzaDFob3p6d21jZ3llcHhmdXhwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200px" />
+  <div style="flex-shrink: 0;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRqZGx3NndiamFtc3dhMTYxMmhzaDFob3p6d21jZ3llcHhmdXhwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding gif" width="200" />
   </div>
 </div>
-
 
 
 ## 🌐 Redes:
